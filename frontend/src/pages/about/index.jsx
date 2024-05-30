@@ -7,8 +7,8 @@ export default function About() {
       <Heading as="h1" mb={5}>About Us</Heading>
       {/* <Image borderRadius="full" boxSize="150px" src="/path-to-your-image.jpg" alt="Company Image" mb={5} /> */}
       <Text fontSize="lg" lineHeight="tall">
-        Welcome to VolunMint, where we aim to promote social connectivity and empathy by offering a service that helps volunteers as well as the local community around Boston.
-        Founded in 2024, we have grown from a small student 4 student group to a large community of volunteers and organizations.
+        Welcome to VolunTier, where we aim to promote social connectivity and empathy by offering a service that helps volunteers as well as the local community around the World.
+        Founded in 2024, we have grown from a small student 3 student group to a large community of volunteers and organizations.
       </Text>
       <Text mt={4}>
         Our team is dedicated to create a huge positive impact on the community of Boston.
