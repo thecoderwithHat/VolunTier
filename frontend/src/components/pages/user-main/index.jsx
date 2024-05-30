@@ -1,6 +1,6 @@
 import { Box, Image, Badge } from "@chakra-ui/react";
 import { StarIcon } from "@chakra-ui/icons";
-import * as client from "./catClient";
+//import * as client from "./catClient";
 import { useState, useEffect } from "react";
 
 export default function Card({
